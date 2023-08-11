@@ -1,0 +1,6 @@
+# ignore ALL .pro files
+*.pro
+# ignore ALL .pro.user files
+*.pro.user
+# ignore mac os files
+.DS_Store
